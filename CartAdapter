@@ -58,34 +58,6 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.CartViewHolder
 }
 
 [xml source]
-$drawer_header
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent" android:layout_height="160dp" android:background="#ff6622">
-
-    <ImageView
-        android:id="@+id/header_iv"
-        android:layout_width="80dp"
-        android:layout_height="80dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginBottom="8dp"
-        android:src="@drawable/user_interface" />
-
-    <TextView
-        android:id="@+id/header_tv"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="13dp"
-        android:layout_marginBottom="29dp"
-        android:text="회원 설정"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
-</RelativeLayout>
-
 $product_item
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
