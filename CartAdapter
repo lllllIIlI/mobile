@@ -56,7 +56,3 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.CartViewHolder
         }
     }
 }
-
-[xml source]
-
-[설정 source]
