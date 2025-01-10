@@ -59,24 +59,4 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.CartViewHolder
 
 [xml source]
 
-$drawer_menu
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <group android:id="@+id/g1">
-        <item
-            android:id="@+id/menu_infromation"
-            android:icon="@android:drawable/star_big_off"
-            android:title="회원정보" />
-        <item
-            android:id="@+id/menu_update"
-            android:icon="@android:drawable/ic_menu_edit"
-            android:title="회원 수정" />
-        <item
-            android:id="@+id/menu_delete"
-            android:icon="@android:drawable/btn_dialog"
-            android:title="회원탈퇴" />
-    </group>
-</menu>
-
 [설정 source]
