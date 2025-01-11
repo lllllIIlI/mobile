@@ -1,4 +1,3 @@
-$activity_cart_item
 <!-- activity_cart_item.xml -->
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
