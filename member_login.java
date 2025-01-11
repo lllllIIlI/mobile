@@ -1,4 +1,3 @@
-$member_login.java
 package com.inhatc.project_android;
 
 import android.content.Intent;
@@ -23,7 +22,6 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-
 
 public class member_login extends AppCompatActivity {
     DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReferenceFromUrl("https://android31-1685951287960-default-rtdb.firebaseio.com/");
