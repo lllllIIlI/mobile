@@ -1,5 +1,3 @@
-$Product
-// Product.java
 package com.inhatc.project_android;
 
 public class Product {
