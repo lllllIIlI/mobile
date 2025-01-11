@@ -1,4 +1,3 @@
-$Fragment_3$
 package com.inhatc.project_android;
 
 import android.os.Bundle;
