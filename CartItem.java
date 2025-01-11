@@ -6,11 +6,11 @@ public class CartItem {
     private int price;
 
 
-    public CartItem(String menu, int quantity, int price) {
-        this.menu = menu;
-        this.quantity = quantity;
-        this.price = price;
-    }
+public CartItem(String menu, int quantity, int price) {
+    this.menu = menu;
+    this.quantity = quantity;
+    this.price = price;
+}
 
     public String getMenu() {
         return menu;
