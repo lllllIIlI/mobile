@@ -1,4 +1,3 @@
-$Fragment_2$
 package com.inhatc.project_android;
 
 import androidx.fragment.app.Fragment;
