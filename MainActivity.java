@@ -1,4 +1,3 @@
-$MainActivity$
 package com.inhatc.project_android;
 
 import androidx.annotation.NonNull;
