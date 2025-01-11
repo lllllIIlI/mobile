@@ -1,5 +1,3 @@
-$CartAdapter.java$
-
 package com.inhatc.project_android;
 
 import android.content.Context;
