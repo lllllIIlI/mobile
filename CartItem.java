@@ -5,7 +5,6 @@ public class CartItem {
     private int quantity;
     private int price;
 
-
     public CartItem(String menu, int quantity, int price) {
         this.menu = menu;
         this.quantity = quantity;
