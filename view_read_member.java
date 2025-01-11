@@ -1,4 +1,3 @@
-$view_read_member
 package com.inhatc.project_android;
 
 import androidx.annotation.NonNull;
