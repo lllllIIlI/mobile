@@ -1,5 +1,3 @@
-$ProductAdapter
-// ProductAdapter.java
 package com.inhatc.project_android;
 
 import android.content.Intent;
