@@ -1,5 +1,3 @@
-$CartItem.java
-
 package com.inhatc.project_android;
 
 public class CartItem {
