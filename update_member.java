@@ -1,4 +1,3 @@
-$update_member
 package com.inhatc.project_android;
 
 import androidx.annotation.NonNull;
