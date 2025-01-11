@@ -1,5 +1,3 @@
-$credit_cart.java$
-
 package com.inhatc.project_android;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -32,6 +30,7 @@ public class credit_cart extends AppCompatActivity {
                 finish();
             }
         });
+        
         payPalcredit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -41,6 +40,7 @@ public class credit_cart extends AppCompatActivity {
                 finish();
             }
         });
+        
         cancel = findViewById(R.id.cancel_button);
 
         cancel.setOnClickListener(new View.OnClickListener() {
@@ -50,5 +50,4 @@ public class credit_cart extends AppCompatActivity {
             }
         });
     }
-
 }
