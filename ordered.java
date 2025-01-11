@@ -1,4 +1,3 @@
-$ordered
 package com.inhatc.project_android;
 
 import androidx.appcompat.app.AppCompatActivity;
